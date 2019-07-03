@@ -1,0 +1,27 @@
+{
+  "name": "swagger-extracter",
+  "version": "1.0.0",
+  "description": "Extracts information and generates code examples from a Swagger file",
+  "main": "extracter.js",
+  "dependencies": {
+    "dot": "1.0.3",
+    "js-yaml": "^3.13.1",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "widdershins": "^3.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleygwilliams/my_package.git"
+  },
+  "author": "Simen Gangstad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/my_package/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/my_package#readme"
+}
