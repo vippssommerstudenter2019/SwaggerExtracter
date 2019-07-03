@@ -7,6 +7,7 @@ Extracts information from a swagger file and generates code examples.
 Navigate to swagger-extracter:
 
 `npm install`
+
 `npm link .`
 
 Navigate to your package:
